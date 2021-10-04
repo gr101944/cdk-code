@@ -1,0 +1,15 @@
+{
+  "companyInfo" :{
+    "companyCode" : "100",
+    "productCode" : "10"
+  },
+  "API" :{
+    "smsIndia": "80b5cabe-d745-11ea-9fa5-0200cd936042",
+    "templateName": "nexgenbots1"
+  },
+  "menuName":"menu.jpg",
+  "coverPhoto" :{
+    "name": "cover.PNG"
+  },
+  "key":"AhefhjEBFekbWKkfbWKJEFBKJwk,NV"
+}

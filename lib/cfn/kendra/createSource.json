@@ -1,0 +1,13 @@
+{
+    "Type" : "AWS::Kendra::DataSource",
+    "Properties" : {
+        "DataSourceConfiguration" : DataSourceConfiguration,
+        "Description" : String,
+        "IndexId" : String,
+        "Name" : String,
+        "RoleArn" : String,
+        "Schedule" : String,
+        "Tags" : [ Tag, ... ],
+        "Type" : String
+      }
+  }
